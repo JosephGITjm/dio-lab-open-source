@@ -19,7 +19,7 @@
 <br/>
 
 # Sobre mim 
-> Sou aluno de TI atualmente fazendo ADS, tenho 19 anos e busco a todo momento me profissionalizar mais, seja pesquisando, estudando, aprendendo ou realizando diversos cursos. Adoro obter conhecimento. Ainda busco minha primeira oportunidade de emprego, no entanto, a todo instante busco evoluir meus conhecimentos e habilidades para conquistá uma vaga.
+> Sou aluno de TI atualmente fazendo ADS, tenho 19 anos e busco a todo momento me profissionalizar mais, seja pesquisando, estudando, aprendendo ou realizando diversos cursos. Adoro obter conhecimento. Ainda busco minha primeira oportunidade de emprego, no entanto, a todo instante busco evoluir meus conhecimentos e habilidades para conquistar uma vaga.
 
 > No meu passado fiz curso Tércnico em informática e Design gráfico, portanto acredito que meu espaço é em desenvolvimento web. 
  No geral gosto de ler, me exercitar, aprender e passar um tempo acompanhando jogos (de futebol e video game).
